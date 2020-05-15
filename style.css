@@ -1,0 +1,15 @@
+.photo1{
+	width: 500px;
+	margin: 0 auto;
+}.body-feed {
+	background-color: ivory;
+}
+.card-header{
+	background-color: white;
+}
+.card-footer{
+	background-color: white;
+}
+.navbar-brand{
+font-family: 'Pangolin', cursive;
+}
